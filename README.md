@@ -2,7 +2,8 @@
 Convolution Neural Networks
 This is my notes on learning CNN aka Convolution Neural Networks
 
-Some Definitions of my own:
+Definitions:
+
 Convolution : Convolution is a process in which we amplify the image/signal/sensor etc to make/view it bigger for our reference. Say suppose if we have an input image or signal , we will convolve with a kernel or feature extractor so that the features of the image can be amplified and extracted.
 
 Filters / Kernels : Filters or kernels are the convolution matrix(matrices) we use to convolve to extract features from the input image
